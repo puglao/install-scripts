@@ -4,3 +4,5 @@ vim
 jq
 python3.8
 python3-pip
+less
+groff
