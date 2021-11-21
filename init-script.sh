@@ -16,3 +16,4 @@ for f in lib/*; do echo "source $f"; source $f; done
 # install_awscli
 # install_terraform
 # install_go
+# install_terragrunt
